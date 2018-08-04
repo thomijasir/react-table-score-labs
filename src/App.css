@@ -1,0 +1,15 @@
+.content {
+	padding-top: 50px;
+}
+
+.control-menu {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.title-name:hover .title-edit {
+	visibility: visible;
+}
+.title-edit {
+	display: inline;
+	visibility: hidden;
+}
